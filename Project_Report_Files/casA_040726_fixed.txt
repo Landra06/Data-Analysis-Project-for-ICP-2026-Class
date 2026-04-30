@@ -1,3 +1,8 @@
+Cassiopeia A Obervation April 7 2026:
+Column 1: Frequency (Hz) - Trace 1 (on target)
+Column 2: Amplitude (dBm) - Trace 1 (on target)
+Column 3: Frequency (Hz) - Trace 2 (off target)
+Column 4: Amplitude (dBm) - Trace 2 (off target)
 Trace1				Trace2			
 Freq		     Amp		Freq		    Amp	
 21000000		-73.8	 	21000000		-74.3	 

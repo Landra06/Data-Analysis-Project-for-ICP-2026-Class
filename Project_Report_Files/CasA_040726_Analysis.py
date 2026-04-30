@@ -12,7 +12,7 @@ plt.rcParams.update({
 })
 
 
-data = np.loadtxt("casA_040726_fixed.txt", skiprows=2)
+data = np.loadtxt("casA_040726_fixed.txt", skiprows=7)
 
 freq = data[:,0]
 amp1 = data[:,1]

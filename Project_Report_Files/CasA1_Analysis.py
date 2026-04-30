@@ -10,7 +10,7 @@ plt.rcParams.update({
     "legend.fontsize":12
 })
 
-data = np.loadtxt("CasA_data1_fixed.txt", skiprows=2)
+data = np.loadtxt("CasA_data1_fixed.txt", skiprows=7)
 
 freq = data[:,0]
 amp1 = data[:,1]

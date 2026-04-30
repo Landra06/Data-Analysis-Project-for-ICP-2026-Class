@@ -16,7 +16,7 @@ plt.rcParams.update({
 
 #Load the data from the first CasA Observation Data
 
-data = np.loadtxt("CasA_data1_fixed.txt", skiprows=2)
+data = np.loadtxt("CasA_data1_fixed.txt", skiprows=7)
 
 
 #Trace 1

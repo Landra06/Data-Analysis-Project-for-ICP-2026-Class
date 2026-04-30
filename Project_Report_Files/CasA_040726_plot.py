@@ -11,7 +11,7 @@ plt.rcParams.update({
     "legend.fontsize":12
 })
 
-data = np.loadtxt("casA_040726_fixed.txt", skiprows=2)
+data = np.loadtxt("casA_040726_fixed.txt", skiprows=7)
 
 #Trace 1
 freq1 = data[:,0]

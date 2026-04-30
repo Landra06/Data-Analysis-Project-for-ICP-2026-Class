@@ -13,7 +13,7 @@ plt.rcParams.update({
 })
 
 
-data = np.loadtxt("VirgoA_040726_fixed.txt", skiprows=2)
+data = np.loadtxt("VirgoA_040726_fixed.txt", skiprows=7)
 
 #Trace1
 freq1 = data[:,0]

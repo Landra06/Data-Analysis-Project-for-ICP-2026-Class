@@ -1,3 +1,8 @@
+Virgo A Observation:
+Column 1: Frequency (Hz) - Trace 1 (on target)
+Column 2: Amplitude (dBm) - Trace 1 (on target)
+Column 3: Frequency (Hz) - Trace 2 (off target)
+Column 4: Amplitude (dBm) - Trace 2 (off target)
 Trace1				Trace2			
 Freq		Amp		Freq		Amp	
 21900000		-84.35	 	21900000		-85.5	 
