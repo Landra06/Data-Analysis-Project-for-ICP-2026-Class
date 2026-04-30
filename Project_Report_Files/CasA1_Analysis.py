@@ -36,6 +36,7 @@ standard_deviation = np.std(smooth)
 #Signal to noise ratio
 snr = (peak - noise_mean) / standard_deviation
 
+print("SNR:", snr)
 
 #Plot
 plt.plot(freq, avg, label="Average of Trace 1 and Trace 2")
